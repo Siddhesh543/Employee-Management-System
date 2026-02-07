@@ -130,7 +130,7 @@ License
 MIT License
 Feel free to use, modify, and distribute.
 Made with ❤️ by Siddhesh Patil
-Last updated: February 2025
+Last updated: February 2026
 text### Tips for best GitHub presentation
 
 1. Add a nice project banner / screenshot at the top (optional but looks professional)
